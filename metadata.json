@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Viajero Cultural",
+  "description": "Asistente de viaje inteligente para Italia y Egipto. Traducción, recomendaciones culturales y aprendizaje de idiomas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
